@@ -1,4 +1,4 @@
-baseURL = 'https://konradwylde.github.io/'
+baseURL = 'https://mr0x4b.github.io/'
 languageCode = "en-us"
 theme = "hello-friend-ng"
 paginate     = 10
