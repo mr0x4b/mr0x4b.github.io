@@ -1,6 +1,6 @@
 ---
-title: "Threat Actor Profile Report: APT29 (Cozy Bear)"
-description: "In-depth profile of APT29, a sophisticated cyber espionage group, detailing their targets, tactics, recent campaigns, and strategies for defense."
+title: "Top Initial Access Vectors in 2023"
+description: "Find out the key trends and insights about the top initial access vectors during 2023 revealed recently by a detailed analysis made by X-Force."
 authors: Mr0x4b
 tags:
   - threat intelligence
